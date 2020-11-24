@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "386503305263",
+    "firebase_url": "https://coachmanager-41ad2.firebaseio.com",
+    "project_id": "coachmanager-41ad2",
+    "storage_bucket": "coachmanager-41ad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386503305263:android:d3e65ee245e0054614feda",
+        "android_client_info": {
+          "package_name": "fr.chrysgan.coachmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386503305263-t3e87503f1b21sddjfcvv71lark0e8hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAzUxi8ELLQbpbO8VVoQLeCul5fN_wf9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386503305263-t3e87503f1b21sddjfcvv71lark0e8hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
